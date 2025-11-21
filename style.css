@@ -2,7 +2,7 @@ body { margin: 0; font-family: Arial; color: #342114; }
 
 .navbar { display: flex; align-items: center; padding: 0px; background:#342114; }
 
-.logo img { height: 500px;}
+.logo img { height: 70px; padding:20px}
 
 nav ul { list-style: none; margin: 0; padding: 0; display: flex; }
 
